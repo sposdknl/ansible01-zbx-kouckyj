@@ -3,5 +3,9 @@
 
 .git/
 
+.images/
+
+.docs/
+
 # Ignoruje všechny soubory .box, kvůli velikosti
 *.box
