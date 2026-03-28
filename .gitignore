@@ -1,5 +1,7 @@
 # Ignoruje adresář .vagrant/ s metadaty
 .vagrant/
 
+.git/
+
 # Ignoruje všechny soubory .box, kvůli velikosti
 *.box
